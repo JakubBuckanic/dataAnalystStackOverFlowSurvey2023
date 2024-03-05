@@ -11,6 +11,9 @@ The relationship of the respondents with coding is analyzed next, uncovering ins
 The learning methods adopted by the respondents to learn coding, the top-paying companies, and the popularity of JavaScript are also explored. The project also looks into the usage of WhatsApp for work-related purposes.
 
 A key aspect of this project is the exploration of the impact of AI. This includes understanding the sentiments of respondents towards AI, the AI tools currently in use or of interest for potential use, the most important benefits of AI, and the level of trust in AI among respondents.
+## Data Source
+
+The data used in this project is the 2023 StackOverflow Developer Survey data, which is publicly available on Kaggle. You can download the data from [Kaggle](https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey?select=survey_results_public.csv).
 
 ## Libraries Used
 
